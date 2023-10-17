@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    margin: 0px auto;
+}
+
+.Call{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.head1{
+    background-color: #ffa019;
+    width: 100%;
+    margin: 0px 0px 35px 0px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.head1 p{
+    font-size: 34px;
+}
+
+.head2{
+    background-color: #ffa019;
+    width: 100%;
+    margin: 0px 0px 35px 0px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.head3{
+    background-color: #ffa019;
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.head3 p{
+    font-size: 50px;
+    color: green;
+}
